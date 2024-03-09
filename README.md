@@ -16,7 +16,7 @@ Award Data Archive for the EPA can be found [here](https://www.usaspending.gov/d
 
 
 ## Story
-For small businesses, especially those owned by women, minorities, and those classified as small disadvantaged, this data trend shows descreasing opportunities to participate in government contracts. These businesses can be severally impacted by the unstable average contract value which can result in more critical consequences for small and disadvantaged businesses when compared to big businesses.
+For small businesses, especially those owned by women, minorities, and those classified as small disadvantaged, this data trend shows decreasing opportunities to participate in government contracts. These businesses can be severally impacted by the unstable average contract value which can result in more critical consequences for small and disadvantaged businesses when compared to big businesses.
 
 
 ## Problem to Solve
